@@ -2,9 +2,9 @@
 
 ## Authors
 
-**_Pasang Tengin Lama, [201722], BE Software  (Day)_**
-**_Dikshit Sapkota, [201747], BE Software  (Day)_**
-**_Krinjal Paudel, [201715], BE Software  (Day)_**
+**_Pasang Tengin Lama, [201722], BE Software (Day)_**<br>
+**_Dikshit Sapkota, [201747], BE Software (Day)_**<br>
+**_Krinjal Paudel, [201715], BE Software (Day)_**
 
 
 
