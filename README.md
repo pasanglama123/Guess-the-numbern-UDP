@@ -1,14 +1,14 @@
-# 🎯 UDP-Based "Guess the Number" Game in C
+# UDP-Based "Guess the Number" Game in C
 
 ## Authors
 
-**_Pasang Tengin Lama, [YourID], BE Software (Day)_**
+**_Pasang Tengin Lama, [201722], BE Software (Day)_**
+**_Dikshit Sapkota, [201747], BE Software (Day)_**
 
-*(Add other members here if working in a group)*
 
 ---
 
-## 📖 Brief Project Description
+##  Brief Project Description
 
 _This project implements a lightweight **UDP-based number guessing game** using the C programming language and socket programming concepts. It is designed to demonstrate basic client-server communication over the User Datagram Protocol (UDP), with a focus on simplicity and correctness._
 
@@ -16,7 +16,7 @@ The **server** generates a random number between 1 and 100, and the **client** a
 
 ---
 
-## ✨ Features
+##  Features
 
 - **UDP Communication:** The game uses connectionless UDP sockets to transmit data between the client and server.
 - **Client-Server Model:** A central server accepts guesses and responds; the client interacts via terminal.
@@ -27,7 +27,7 @@ The **server** generates a random number between 1 and 100, and the **client** a
 
 ---
 
-## 🧰 Dependencies
+##  Dependencies
 
 - **Compiler:** GCC or any standard C compiler.
 - **Header Files:** `stdio.h`, `stdlib.h`, `string.h`, `unistd.h`, `arpa/inet.h`, `sys/socket.h`, `time.h`
