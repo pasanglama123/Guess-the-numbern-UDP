@@ -30,9 +30,9 @@ The **server** generates a random number between 1 and 100, and the **client** a
 ##  Dependencies
 
 - **Compiler:** GCC or any standard C compiler.
-- **Header Files:** `stdio.h`, `stdlib.h`, `string.h`, `unistd.h`, `arpa/inet.h`, `sys/socket.h`, `time.h`
+- **Header Files:** `stdio.h`, `stdlib.h`, `string.h`, `unistd.h`, `arpa/inet.h`, `sys/socket.h`, `time.h
 
-✅ No third-party libraries required.
+
 
 ---
 
@@ -48,3 +48,8 @@ The **server** generates a random number between 1 and 100, and the **client** a
 
 ```bash
 gcc server.c -o server
+
+
+ 4. **Compile the server:**
+```bash
+gcc client.c -o client
