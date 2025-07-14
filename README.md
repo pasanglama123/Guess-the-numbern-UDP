@@ -72,8 +72,11 @@ gcc client.c -o client
 
 ---
 
-  **here are some screenshots illustrating the chat application in action**
-  - A view of the client console.
-   ![client screenshot] (readmeImages/client.png)
-  - A view of the server console.
-   ![server screenshot] (readmeImages/server.png)
+ **Here are some screenshots illustrating the chat application in action**
+
+- A view of the client console:  
+  ![Client Screenshot](readmeImages/client.png)
+
+- A view of the server console:  
+  ![Server Screenshot](readmeImages/server.png)
+
