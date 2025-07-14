@@ -58,17 +58,22 @@ gcc client.c -o client
 
 ## How to Run 
 1. **Start the Server:**
- -Open a terminal/command prompt and run the compiled server executable:
+ - Open a terminal/command prompt and run the compiled server executable:
 ```bash
 . /server
 ```
 
 2. **Start Client:**
- -open a terminal/command prompt and run the compiled client executable:
+ - open a terminal/command prompt and run the compiled client executable:
 ```bash
    ./client
 ```
   ##Screenshots
 
+---
+
   **here are some screenshots illustrating the chat application in action**
-  
+  - A view of the client console.
+   ![client screenshot] (readmeImages/client.png)
+  - A view of the server console.
+   ![server screenshot] (readmeImages/server.png)
