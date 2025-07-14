@@ -36,7 +36,7 @@ The **server** generates a random number between 1 and 100, and the **client** a
 
 ---
 
-## 🛠️ How to Compile
+## How to Compile
 
 1. **Save the code files:**
    - `server.c` for the UDP server
@@ -46,10 +46,23 @@ The **server** generates a random number between 1 and 100, and the **client** a
 
 3. **Compile the server:**
 
-```bash
+```bash```
 gcc server.c -o server
 
 
  4. **Compile the server:**
-```bash
+```bash```
 gcc client.c -o client
+
+## How to Run 
+1. **Start the Server:**Open a terminal/command prompt and run the compiled server executable:
+```bash```
+./server
+2. **Start Client:**open a terminal/command prompt and run the compiled client executable:
+```bash```
+   ./client
+
+  ##Screenshots
+
+  **here are some screenshots illustrating the chat application in action**
+  
